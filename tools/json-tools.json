@@ -40,6 +40,25 @@
         "Browser playground is not a substitute for local project configuration"
       ],
       "documentation": "https://prettier.io/docs/"
+    },
+    {
+      "name": "JSON Crack",
+      "website": "https://jsoncrack.com/",
+      "category": "JSON visualization",
+      "pricing": "Freemium; features and limits may change.",
+      "bestFor": "Exploring nested JSON as a graph.",
+      "keyFeatures": [
+        "Visual JSON representation",
+        "Editing"
+      ],
+      "advantages": [
+        "Makes large nested structures easier to inspect"
+      ],
+      "limitations": [
+        "Online input is sent to a third-party service",
+        "Review its privacy policy and current plan"
+      ],
+      "documentation": "https://jsoncrack.com/docs"
     }
   ]
 }
