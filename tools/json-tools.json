@@ -77,6 +77,25 @@
         "Sample data should not be confidential"
       ],
       "documentation": "https://github.com/glideapps/quicktype"
+    },
+    {
+      "name": "JSON Schema",
+      "website": "https://json-schema.org/",
+      "category": "JSON validation and schema reference",
+      "pricing": "Free and open source specification.",
+      "bestFor": "Describing and validating the expected shape of JSON data.",
+      "keyFeatures": [
+        "Schema documentation",
+        "Links to validators for different languages"
+      ],
+      "advantages": [
+        "A portable way to document data constraints"
+      ],
+      "limitations": [
+        "A schema only validates rules that have been expressed",
+        "Implementation support can vary by draft"
+      ],
+      "documentation": "https://json-schema.org/learn/getting-started-step-by-step"
     }
   ]
 }
