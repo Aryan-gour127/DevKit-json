@@ -1,0 +1,26 @@
+{
+  "category": "JSON",
+  "description": "Curated JSON tools for formatting, validation, visualization, type generation, and schema-based validation.",
+  "tools": [
+    {
+      "name": "JSONLint",
+      "website": "https://jsonlint.com/",
+      "category": "JSON formatter and validator",
+      "pricing": "Free to use; check the site's current terms.",
+      "bestFor": "Checking syntax and formatting small JSON documents.",
+      "keyFeatures": [
+        "Validation",
+        "Readable formatting"
+      ],
+      "advantages": [
+        "Simple browser workflow",
+        "No setup"
+      ],
+      "limitations": [
+        "Avoid sensitive input",
+        "Not a schema validator"
+      ],
+      "documentation": "https://jsonlint.com/"
+    }
+  ]
+}
