@@ -59,6 +59,24 @@
         "Review its privacy policy and current plan"
       ],
       "documentation": "https://jsoncrack.com/docs"
+    },
+    {
+      "name": "quicktype",
+      "website": "https://quicktype.io/",
+      "category": "Data model generation",
+      "pricing": "Free and open source.",
+      "bestFor": "Generating typed model definitions from representative JSON.",
+      "keyFeatures": [
+        "Type generation for several programming languages"
+      ],
+      "advantages": [
+        "Helps bootstrap models from sample payloads"
+      ],
+      "limitations": [
+        "Generated types require review",
+        "Sample data should not be confidential"
+      ],
+      "documentation": "https://github.com/glideapps/quicktype"
     }
   ]
 }
