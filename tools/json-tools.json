@@ -21,6 +21,25 @@
         "Not a schema validator"
       ],
       "documentation": "https://jsonlint.com/"
+    },
+    {
+      "name": "Prettier Playground",
+      "website": "https://prettier.io/playground",
+      "category": "JSON and code formatting",
+      "pricing": "Free, open-source formatter.",
+      "bestFor": "Formatting JSON and comparing formatter options.",
+      "keyFeatures": [
+        "Prettier formatting",
+        "Formatter options preview"
+      ],
+      "advantages": [
+        "Uses the Prettier project",
+        "Supports multiple languages"
+      ],
+      "limitations": [
+        "Browser playground is not a substitute for local project configuration"
+      ],
+      "documentation": "https://prettier.io/docs/"
     }
   ]
 }
